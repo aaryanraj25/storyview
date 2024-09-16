@@ -13,4 +13,4 @@ Here are some screenshots of the `StoryView` application:
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home.jpeg)
